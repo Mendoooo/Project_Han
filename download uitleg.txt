@@ -1,0 +1,12 @@
+how to see the portfolio
+download de volledige map met de naam "portfolio project Han concept - kopie" map
+zoek de gedownloaden map op je computer op. als dit een onedrive zip file is dan volg deze stappen.
+allesuitpakken --> selecteer een locatie op je computer waar je het wilt uitpakken (zolang het maar niet de onedrive zip file uitpakt) --> open de "map portfolio project Han concept - kopie" --> open de "index.html" in je  browser.
+dit zou moeten werken. je kan het checken door te kijken of je het zelfde ziet als op de preview img.
+
+als het niet als een zip-file is gedownload dan kun je direct proberen om de "index.html" te openen zonder alles te hoeven uitepakken.
+
+het zou in alle browsers moeten werken maar ik raad je aan om chrome te gebruiken.
+als het op 1 of andere manier niet werkt laat het me weten.
+
+disclaimer dit is een concept en  ben er nog mee bezig.
